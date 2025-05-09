@@ -1,2 +1,6 @@
 # FlappyBird
 FlappyBird Usando Love2d
+
+![IMG](https://cdn.discordapp.com/attachments/1112840971961516032/1366154581213446204/Screenshot_20250427-174703.jpg?ex=681e6a9a&is=681d191a&hm=868ab74554e7d0e02af012e270c7afd14527d857455b8bc399181ebba646ac10&)
+
+![IMG](https://cdn.discordapp.com/attachments/1112840971961516032/1366154590587719680/Screenshot_20250427-174710.jpg?ex=681e6a9c&is=681d191c&hm=53b7313052df17f04ede2281913426443a6c31fc84ebbaba6d3f911dc076110d&)
