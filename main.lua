@@ -1,4 +1,4 @@
--- Flappy Bird Feito em lua com Löve2d por Crazy ArKzX
+-- Flappy Bird Feito em lua com Löve2d
 -- Licence MIT
 -- Execute o Jogo no Aplicado Oficial da Löve2d
 -- Link: https://github.com/love2d/love/releases/download/11.5/love-11.5-android.apk
